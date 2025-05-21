@@ -1,12 +1,18 @@
-# applogin
+# AppLogin
 Aplicativo simples de login com dados estáticos.
 ```
 email: aluno@email.com
 senha: senha123
 ```
+|![Tela01](./assets/telalogin.png)|![Tela01](./assets/telasenha.png)|![Tela01](./assets/telahome.png)|
+|-|-|-|
+|Tela Login|Senha errada|Tela Home|
+
 ## Tecnologias
-Flutter
-Dart
+- Flutter
+- Dart
+- Android Studio
+- VsCode
 
 ## Como testar
 - 1 Clonar o repositório
